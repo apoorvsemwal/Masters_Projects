@@ -1,0 +1,48 @@
+Map name=India_1539960503453
+Phase=Startup
+
+[Player]
+Id=1
+Name=player1
+Armies Stock=20
+[Territories]
+karnataka,southern states,0
+kerala,southern states,0
+tamil nadu,southern states,0
+madhya pradesh,western states,0
+maharastra,western states,0
+chattisgarh,eastern states,0
+jharkhand,eastern states,0
+bihar,eastern states,0
+himachal pradesh,Northern states,0
+haryana,Northern states,0
+uttar pradesh,Northern states,0
+andhra pradesh,southern states,0
+andaman nicobar islands,southern states,0
+orissa,eastern states,0
+west bengal,eastern states,0
+
+[Cards]
+
+[Player]
+Id=2
+Name=player2
+Armies Stock=10
+[Territories]
+sikkim,north east states,0
+meghalaya,north east states,0
+mizoram,north east states,0
+tirupura,north east states,0
+rajasthan,western states,0
+gujarat,western states,0
+goa,western states,0
+kashmir,Northern states,0
+punjab,Northern states,0
+uttaranchal,Northern states,0
+assam,north east states,0
+manipur,north east states,0
+nagaland,north east states,0
+arunachal pradesh,north east states,0
+
+[Cards]
+

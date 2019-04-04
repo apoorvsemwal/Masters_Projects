@@ -1,0 +1,107 @@
+[Gameplay]
+Map name=Switzerland_1543533737576
+Phase=ATTACK
+Current Player Id=1
+Status=ATTACK WILL START FOR PLAYER: 1-Human
+Game Play Id=1
+Game Play Turns=0
+
+[Free Cards]
+Fribourg,Infantry
+Bern Canton,Infantry
+Aargau,Infantry
+Sankt Gallen,Infantry
+Thurago,Infantry
+Lusanne Canton,Infantry
+Stans,Infantry
+Shafthausen,Infantry
+Graubunden,Infantry
+Neuchtel,Cavalry
+Solothum,Cavalry
+Basel Canton,Cavalry
+Appenziel Canton,Cavalry
+Valais Canton,Cavalry
+Luzern Canton,Cavalry
+Shwytz Canton,Cavalry
+Zurich Canton,Cavalry
+Ticino Canton,Cavalry
+Jura Canton,Artillery
+Leistal Canton,Artillery
+Glarus Canton,Artillery
+Herisan Canton,Artillery
+Geneva,Artillery
+Sarnen,Artillery
+Uri Canton,Artillery
+Zug ZUg,Artillery
+Varduz,Artillery
+
+[Domination]
+Id=1
+Map Coverage=51.9
+Player Army Count=45
+
+[Player Continent list]
+Liechtenstien
+
+[Domination]
+Id=2
+Map Coverage=48.1
+Player Army Count=40
+
+[Player Continent list]
+Basel
+Lowlands
+
+[Player]
+Id=1
+Name=Player1
+Armies Stock=0
+Any Territory Occupied=false
+Trade Count=0
+Type=HUMAN
+Strategy Name=Human
+
+[Territories]
+Aargau,Highlands,8
+Appenziel Canton,Eastlands,3
+Fribourg,Jura-Fribourg,3
+Geneva,Geneva,3
+Glarus Canton,Eastlands,3
+Graubunden,Ticino-Graub,2
+Jura Canton,Jura-Fribourg,3
+Luzern Canton,Confederation,3
+Solothum,Highlands,3
+Stans,Confederation,3
+Thurago,Eastlands,3
+Uri Canton,Confederation,3
+Varduz,Liechtenstien,2
+Zurich Canton,Zurich,3
+
+[Cards]
+
+[Player]
+Id=2
+Name=Player2
+Armies Stock=0
+Any Territory Occupied=false
+Trade Count=0
+Type=HUMAN
+Strategy Name=Human
+
+[Territories]
+Basel Canton,Basel,3
+Bern Canton,Highlands,3
+Herisan Canton,Eastlands,3
+Leistal Canton,Highlands,3
+Lusanne Canton,Geneva,3
+Neuchtel,Jura-Fribourg,4
+Sankt Gallen,Eastlands,3
+Sarnen,Confederation,3
+Shafthausen,Zurich,3
+Shwytz Canton,Confederation,3
+Ticino Canton,Ticino-Graub,3
+Valais Canton,Lowlands,3
+Zug ZUg,Zurich,3
+
+[Cards]
+

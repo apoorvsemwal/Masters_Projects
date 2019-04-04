@@ -1,0 +1,72 @@
+[Map]
+author=Eltrab
+image=New Zealand.bmp
+wrap=no
+scroll=vertical
+warn=yes
+
+[Continents]
+Northland/Auckland=1
+Waikato=4
+Bay Of Plenty/Gisborne=3
+Manawatu/Taranaki=4
+Wellington/Hawkes Bay=4
+Tasman/Malborough=4
+West Coast=1
+Canterbury=2
+Otago/Southland=1
+
+[Territories]
+Cape Reinga,24,24,Northland/Auckland,Herekino,Kerikeri
+Herekino,37,51,Northland/Auckland,Cape Reinga,Kerikeri,Dargaville
+Kerikeri,64,55,Northland/Auckland,Cape Reinga,Herekino,Dargaville,Coromandel Peninsula
+Dargaville,66,80,Northland/Auckland,Herekino,Kerikeri,Auckland
+Auckland,83,106,Northland/Auckland,Dargaville,Pukekohe
+Pukekohe,89,127,Northland/Auckland,Auckland,Hamilton,Cambridge
+Coromandel Peninsula,122,124,Waikato,Paeroa,Kerikeri
+Paeroa,123,152,Waikato,Coromandel Peninsula,Cambridge
+Cambridge,122,169,Waikato,Pukekohe,Hamilton,Paeroa,Mount Maunganui,Ngapuke,Waitomo Caves,Maungataniwha
+Hamilton,93,151,Waikato,Pukekohe,Cambridge,Waitomo Caves
+Waitomo Caves,97,189,Waikato,Hamilton,Cambridge,New Plymouth,Taumarunui,Ngapuke
+Ngapuke,118,186,Waikato,Cambridge,Waitomo Caves,Lake Taupo,Taumarunui,Maungataniwha
+Lake Taupo,129,200,Waikato,Ngapuke,Maungataniwha
+Maungataniwha,148,212,Waikato,Cambridge,Mount Maunganui,Whakatane,Ruahine Range,Lake Taupo,Ngapuke,Mangaweka
+Mount Maunganui,151,176,Bay Of Plenty/Gisborne,Cambridge,Whakatane,Maungataniwha
+Whakatane,173,189,Bay Of Plenty/Gisborne,Mount Maunganui,Maungataniwha,Opotiki,Ruahine Range,Wairoa
+Opotiki,197,183,Bay Of Plenty/Gisborne,Whakatane,Hicks Bay,Gisborne
+Hicks Bay,215,173,Bay Of Plenty/Gisborne,Opotiki,Gisborne
+Gisborne,207,202,Bay Of Plenty/Gisborne,Opotiki,Hicks Bay,Wairoa
+New Plymouth,73,235,Manawatu/Taranaki,Waitomo Caves,Wanganui,Taumarunui,Farewell Spit
+Taumarunui,105,233,Manawatu/Taranaki,Waitomo Caves,Ngapuke,New Plymouth,Wanganui,Taihape,Mangaweka
+Wanganui,95,255,Manawatu/Taranaki,New Plymouth,Taumarunui,Taihape,Palmerston North
+Taihape,120,255,Manawatu/Taranaki,Taumarunui,Wanganui,Palmerston North,Mangaweka
+Wairoa,192,219,Wellington/Hawkes Bay,Gisborne,Tarawera,Ruahine Range,Whakatane
+Tarawera,171,223,Wellington/Hawkes Bay,Wairoa,Napier,Ruahine Range
+Napier,157,250,Wellington/Hawkes Bay,Tarawera,Ruahine Range
+Ruahine Range,147,275,Wellington/Hawkes Bay,Whakatane,Wairoa,Tarawera,Napier,Mangaweka,Eketahuna,Maungataniwha
+Palmerston North,110,289,Manawatu/Taranaki,Taihape,Mangaweka,Eketahuna,Wellington,Wanganui
+Eketahuna,131,301,Wellington/Hawkes Bay,Palmerston North,Masterton,Ruahine Range,Mangaweka
+Masterton,113,327,Wellington/Hawkes Bay,Wellington,Eketahuna,Kaikoura
+Wellington,101,315,Wellington/Hawkes Bay,Palmerston North,Masterton,Picton
+Farewell Spit,176,388,Tasman/Malborough,St Arnaud,New Plymouth
+St Arnaud,185,406,Tasman/Malborough,Hamner Springs,Lewis Pass,Nelson,Farewell Spit
+Nelson,201,412,Tasman/Malborough,Hamner Springs,Kaikoura,Picton,St Arnaud
+Picton,218,395,Tasman/Malborough,Kaikoura,Nelson,Wellington
+Westport,147,441,West Coast,Westland National Park,Lewis Pass
+Westland National Park,111,487,West Coast,Mount Aspiring,Haast,Lake Tekapo,Westport,Lewis Pass,Hamner Springs,Fiordland National Park
+Kaikoura,205,435,Canterbury,Christchurch,Hamner Springs,Nelson,Picton,Masterton
+Lake Tekapo,120,504,Canterbury,Wanaka,Mount Aspiring,Timaru,Christchurch,Hamner Springs,Westland National Park
+Timaru,136,512,Canterbury,Wanaka,Lake Tekapo,Christchurch
+Christchurch,174,490,Canterbury,Timaru,Lake Tekapo,Kaikoura,Hamner Springs,Oamaru
+Haast,91,501,West Coast,Mount Aspiring,Westland National Park
+Mount Aspiring,75,517,West Coast,Wanaka,Haast,Milford Sound,Westland National Park,Lake Tekapo
+Wanaka,104,530,Otago/Southland,Dunedin,Oamaru,Mount Aspiring,Lake Tekapo,Timaru
+Oamaru,118,555,Otago/Southland,Dunedin,Wanaka,Christchurch
+Dunedin,94,570,Otago/Southland,Invercargill,Oamaru,Wanaka,Milford Sound
+Milford Sound,58,540,Otago/Southland,Invercargill,Fiordland National Park,Dunedin,Mount Aspiring
+Fiordland National Park,32,574,Otago/Southland,Invercargill,Milford Sound,Westland National Park
+Invercargill,70,587,Otago/Southland,Fiordland National Park,Milford Sound,Dunedin,Stewart Island
+Stewart Island,47,629,Otago/Southland,Invercargill
+Lewis Pass,169,422,West Coast,Westland National Park,Westport,Hamner Springs,St Arnaud
+Hamner Springs,181,444,Canterbury,Lake Tekapo,Westland National Park,Christchurch,Kaikoura,Nelson,St Arnaud,Lewis Pass
+Mangaweka,126,274,Manawatu/Taranaki,Ruahine Range,Eketahuna,Palmerston North,Taihape,Taumarunui,Maungataniwha

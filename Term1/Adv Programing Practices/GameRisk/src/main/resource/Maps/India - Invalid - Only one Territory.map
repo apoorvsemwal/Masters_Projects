@@ -1,0 +1,18 @@
+[Map]
+image=india.bmp
+wrap=no
+scroll=vertical
+author=Neel
+warn=yes
+
+[Continents]
+
+southern states=5
+eastern states=5 
+north east states=5
+western states=8
+Northern states=7
+
+[Territories]
+
+kashmir,202,80,northern states,himachal pradesh, punjab

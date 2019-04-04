@@ -1,0 +1,10 @@
+com\risk\business\ManageDominationTest.class
+com\risk\model\Strategy\AggressiveTest.class
+com\risk\file\ManageGamePlayFileTest.class
+com\risk\model\Strategy\CheaterTest.class
+com\risk\business\ManageGamePlayTest.class
+com\risk\business\ManagePlayerTest.class
+com\risk\business\ManageMapTest.class
+com\risk\business\GameRiskTestSuite.class
+com\risk\model\Strategy\HumanTest.class
+com\risk\model\Strategy\BenevolentTest.class

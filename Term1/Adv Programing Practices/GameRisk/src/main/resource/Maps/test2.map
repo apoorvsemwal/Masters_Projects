@@ -1,0 +1,14 @@
+[Map]
+author=Dummy
+image=Dummy
+wrap=Dummy
+scroll=Dummy
+warn=Dummy
+[Continents]
+A=1
+B=2
+C=1
+[Territories]
+a,20,28,A,b,c
+b,20,28,B,a,c
+c,20,28,C,a,b
